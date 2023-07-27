@@ -4,9 +4,9 @@ import Tarjeta from './Tarjeta'
 function App() {
   
   return (
-    <>
+    <div className='contenedor'>
      <Tarjeta />
-    </>
+    </div>
   )
 }
 

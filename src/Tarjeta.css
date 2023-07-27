@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Overpass', sans-serif;
+    
+}
+
+.bloqueImg {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: no-repeat center;
+}
+.bloque1 > img {
+    width: 100%;
+    height: auto;
+}
+
